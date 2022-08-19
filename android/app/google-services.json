@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969858726109",
+    "project_id": "suivi-des-stagiaires",
+    "storage_bucket": "suivi-des-stagiaires.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969858726109:android:c014c1e933aa79f3f20334",
+        "android_client_info": {
+          "package_name": "com.example.suivi_des_stagiaires"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969858726109-olhqco283hjssjc1q71mgkbaj9bl3c6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfv7XgZDrnlQxZy_IgKdy00AwSr3mcYOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969858726109-olhqco283hjssjc1q71mgkbaj9bl3c6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
